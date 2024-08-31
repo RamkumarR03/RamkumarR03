@@ -14,9 +14,10 @@
   <a href="https://www.linkedin.com/in/ramkumar-r-865336250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   [<a href="https://leetcode.com/u/Ramkumar03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>]
+   <a href="https://leetcode.com/u/Ramkumar03/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
   <a href="https://twitter.com/ramkumar_r" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
