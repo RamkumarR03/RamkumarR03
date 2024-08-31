@@ -10,7 +10,7 @@
 <p align="left">
 
  <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Placeholder-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
+    <img src="https://img.shields.io/badge/Resume-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
 </a>
 
 
