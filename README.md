@@ -45,19 +45,25 @@
 
 </p>
 
-<!-- Left-Aligned Heading for GitHub Profile Overview -->
-<!-- Container for centered content -->
+<!-- Container for centered images -->
 <div style="text-align: center;">
-  <h3 style="text-align: left; display: inline-block;">GitHub Profile Overview</h3>
-  <p>
+  <!-- Heading for GitHub Profile Overview -->
+  <div style="text-align: left; margin: 0 auto; max-width: 800px;">
+    <h3 style="text-align: left;">GitHub Profile Overview</h3>
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
-  </p>
+  </div>
 
-  <h3 style="text-align: left; display: inline-block;">Programming Language Proficiency</h3>
-  <p>
+  <!-- Heading for Programming Language Proficiency -->
+  <div style="text-align: left; margin: 0 auto; max-width: 800px;">
+    <h3 style="text-align: left;">Programming Language Proficiency</h3>
+  </div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
-  </p>
+  </div>
 </div>
+
 
 
 
