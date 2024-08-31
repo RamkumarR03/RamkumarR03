@@ -39,9 +39,10 @@
 
 </p>
 
-<!-- GitHub Stats -->
-![RamkumarR03's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
+</p>
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark)
+
 
