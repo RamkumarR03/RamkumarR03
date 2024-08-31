@@ -46,16 +46,19 @@
 </p>
 
 <!-- Left-Aligned Heading for GitHub Profile Overview -->
-<h3 style="text-align: left;">GitHub Profile Overview</h3>
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
-</p>
+<!-- Container for centered content -->
+<div style="text-align: center;">
+  <h3 style="text-align: left; display: inline-block;">GitHub Profile Overview</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
+  </p>
 
-<!-- Left-Aligned Heading for Programming Language Proficiency -->
-<h3 style="text-align: left;">Programming Language Proficiency</h3>
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
+  <h3 style="text-align: left; display: inline-block;">Programming Language Proficiency</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
+  </p>
+</div>
+
 
 
 
