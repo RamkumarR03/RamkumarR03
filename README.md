@@ -40,11 +40,16 @@
 
 </p>
 
+<h3 align="center">GitHub Profile Overview</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
 </p>
+
+<h3 align="center">Programming Language Proficiency</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
-
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=%24.visitors&url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DRamkumarR03.RamkumarR03)
+<h3 align="center">Visitor Count</h3>
+<p align="center">
+  ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.visitors&url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DRamkumarR03.RamkumarR03)
+</p>
