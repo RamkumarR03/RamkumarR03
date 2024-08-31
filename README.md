@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ramkumar R</h1>
+<h1 align="center">Hello 👋, I'm Ramkumar R</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+<p align="center">
+  As a Full-Stack Developer passionate about creating innovative web solutions, I'm eager to connect with professionals and explore new opportunities. With skills in both front-end and back-end technologies, I focus on delivering impactful projects that drive success. Explore my work and reach out if you'd like to collaborate or discuss technology!
+</p>
 
 - 🔭 I’m currently working on **Employment Management System**.
 - 🌱 I’m currently learning **Full-Stack Development**.
@@ -10,7 +13,7 @@
 <p align="left">
 
  <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
+    <img src="https://img.shields.io/badge/Resume-4C8BF5?style=for-the-badge&logo=resume&background-color=red&logoColor=white" alt="Resume Logo"/>
 </a>
 
 
