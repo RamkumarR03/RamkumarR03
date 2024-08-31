@@ -64,6 +64,26 @@
   </div>
 </div>
 
+<!-- Container for centered content -->
+<div style="text-align: center;">
+  <!-- Left-Aligned Heading for GitHub Profile Overview -->
+  <div style="text-align: left; margin: 0 auto; max-width: 800px;">
+    <h3>GitHub Profile Overview</h3>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats"/>
+  </div>
+
+  <!-- Left-Aligned Heading for Programming Language Proficiency -->
+  <div style="text-align: left; margin: 0 auto; max-width: 800px;">
+    <h3>Programming Language Proficiency</h3>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
+  </div>
+</div>
+
+
 
 
 
