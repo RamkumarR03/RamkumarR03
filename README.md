@@ -9,9 +9,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Logo-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
+ <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Placeholder-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
 </a>
+
 
   <a href="https://github.com/RamkumarR03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
