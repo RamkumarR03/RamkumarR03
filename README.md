@@ -8,7 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+
+  <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Logo-4C8BF5?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Logo"/>
+</a>
+
   <a href="https://github.com/RamkumarR03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -50,6 +54,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 <h3 align="center">Visitor Count</h3>
-<p align="center">
-  ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.visitors&url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fbadge%3Fpage_id%3DRamkumarR03.RamkumarR03)
-</p>
+
