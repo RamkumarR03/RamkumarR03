@@ -38,3 +38,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
 
 </p>
+
+<!-- GitHub Stats -->
+![RamkumarR03's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark)
+
