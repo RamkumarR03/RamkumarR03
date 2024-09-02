@@ -11,7 +11,7 @@
 - 📫 How to reach me: **[ramr50195@gmail.com](mailto:ramr50195@gmail.com)**.
 - ⚡ Fun fact: **I love solving coding puzzles as much as I love solving real-life ones.**
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Profiles:</h3>
+<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3>
 
 <p align="left" style="margin-bottom: 20px;">
   <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank" style="margin-right: 10px;">
