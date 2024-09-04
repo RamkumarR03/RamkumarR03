@@ -4,13 +4,13 @@
 
 <p align="center" style="font-family: Verdana, sans-serif; color: #555; line-height: 1.6; margin-bottom: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
   As a Full-Stack Developer passionate about creating innovative web solutions, I'm eager to connect with professionals and explore new opportunities. With skills in both front-end and back-end technologies, I focus on delivering impactful projects that drive success. Explore my work and reach out if you'd like to collaborate or discuss technology!
-</p>
+</p><hr></hr>
 
 - 🔭 I’m currently working on **Employment Management System**.
 - 🌱 I’m currently learning **Full-Stack Development**.
 - 📫 How to reach me: **[ramr50195@gmail.com](mailto:ramr50195@gmail.com)**.
 - ⚡ Fun fact: **I love solving coding puzzles as much as I love solving real-life ones.**
-- <hr></hr>
+  <hr></hr>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3>
 
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/CodeChef-CC0000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
+<hr></hr>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Skills:</h3>
 
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px; border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" style="margin-right: 10px; border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
 </p>
+<hr></hr>
 
 <h3 align="center" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">GitHub Profile Overview</h3>
 
