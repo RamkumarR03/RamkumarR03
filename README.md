@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;"/>
 </p>
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Programming Language Proficiency</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Programming Language Proficiency</h3><br></br>
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamkumarR03&layout=compact&theme=dark" alt="Top Langs" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;"/>
