@@ -4,12 +4,13 @@
 
 <p align="center" style="font-family: Verdana, sans-serif; color: #555; line-height: 1.6; margin-bottom: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
   As a Full-Stack Developer passionate about creating innovative web solutions, I'm eager to connect with professionals and explore new opportunities. With skills in both front-end and back-end technologies, I focus on delivering impactful projects that drive success. Explore my work and reach out if you'd like to collaborate or discuss technology!
-</p><hr></hr>
+</p>
 
 - 🔭 I’m currently working on **Employment Management System**.
 - 🌱 I’m currently learning **Full-Stack Development**.
 - 📫 How to reach me: **[ramr50195@gmail.com](mailto:ramr50195@gmail.com)**.
 - ⚡ Fun fact: **I love solving coding puzzles as much as I love solving real-life ones.**
+- <hr></hr>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3>
 
