@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I love solving coding puzzles as much as I love solving real-life ones.**
 <hr></hr>
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3>
+<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3><br></br>
 
 <p align="left" style="margin-bottom: 20px;">
   <a href="https://drive.google.com/file/d/1gooEfgoo4rePotpgZC5AZ72ghcmI8f_V/view?usp=drivesdk" target="_blank" style="margin-right: 10px;">
@@ -36,7 +36,7 @@
 </p>
 <hr></hr>
 
-<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Skills:</h3>
+<h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Skills:</h3><br></br>
 
 <p align="left" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px; border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
@@ -50,7 +50,7 @@
 </p>
 <hr></hr>
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">GitHub Profile Overview</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">GitHub Profile Overview</h3><br></br>
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=RamkumarR03&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="RamkumarR03's GitHub stats" style="border: 1px solid #ddd; padding: 10px; border-radius: 10px;"/>
