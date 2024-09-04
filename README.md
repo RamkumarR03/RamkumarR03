@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Full-Stack Development**.
 - 📫 How to reach me: **[ramr50195@gmail.com](mailto:ramr50195@gmail.com)**.
 - ⚡ Fun fact: **I love solving coding puzzles as much as I love solving real-life ones.**
-  <hr></hr>
+<hr></hr>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">Connect with me:</h3>
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Resume-4C8BF5?style=for-the-badge&logo=resume&background-color=red&logoColor=white" alt="Resume Logo" style="border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://github.com/RamkumarR03" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&background-color=red&logoColor=white" alt="GitHub" style="border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
   </a>
   <a href="https://www.linkedin.com/in/ramkumar-r-865336250/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: 1px solid #ddd; padding: 5px; border-radius: 5px;"/>
