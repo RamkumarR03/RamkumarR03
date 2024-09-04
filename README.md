@@ -4,7 +4,7 @@
 
 <p align="center" style="font-family: Verdana, sans-serif; color: #555; line-height: 1.6; margin-bottom: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
   As a Full-Stack Developer passionate about creating innovative web solutions, I'm eager to connect with professionals and explore new opportunities. With skills in both front-end and back-end technologies, I focus on delivering impactful projects that drive success. Explore my work and reach out if you'd like to collaborate or discuss technology!
-</p>
+</p><hr></hr>
 
 - 🔭 I’m currently working on **Employment Management System**.
 - 🌱 I’m currently learning **Full-Stack Development**.
